@@ -11,4 +11,4 @@ This is a personal experiment to explore the WebFinger protocol.  This library i
 
 ## Additional Resources
 
-* https://tools.ietf.org/html/rfc5988 - IETF specification
+* [IETF RFC5988 Specification](https://tools.ietf.org/html/rfc5988)
