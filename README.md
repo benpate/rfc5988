@@ -12,3 +12,8 @@ This is a personal experiment to explore the WebFinger protocol.  This library i
 ## Additional Resources
 
 * [IETF RFC5988 Specification](https://tools.ietf.org/html/rfc5988)
+
+
+## Pull Requests Welcome
+
+This library is a work in progress, and will benefit from your experience reports, use cases, and contributions.  If you have an idea for making Rosetta better, send in a pull request.  We're all in this together! 🔗
