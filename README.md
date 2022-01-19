@@ -1,9 +1,10 @@
 # rfc5988 🔗
 
-[![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/benpate/rfc5988)
-[![Go Report Card](https://goreportcard.com/badge/github.com/benpate/rfc5988?style=flat-square)](https://goreportcard.com/report/github.com/benpate/rfc5988)
-[![Build Status](http://img.shields.io/travis/benpate/rfc5988.svg?style=flat-square)](https://travis-ci.org/benpate/rfc5988)
+[![GoDoc](https://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://pkg.go.dev/github.com/benpate/rfc5988)
+[![Build Status](https://img.shields.io/github/workflow/status/benpate/rfc5988/Go/main)](https://github.com/benpate/rfc5988/actions/workflows/go.yml)
 [![Codecov](https://img.shields.io/codecov/c/github/benpate/rfc5988.svg?style=flat-square)](https://codecov.io/gh/benpate/rfc5988)
+[![Go Report Card](https://goreportcard.com/badge/github.com/benpate/rfc5988?style=flat-square)](https://goreportcard.com/report/github.com/benpate/rfc5988)
+[![Version](https://img.shields.io/github/v/release/benpate/rfc5988?include_prereleases&style=flat-square&color=brightgreen)](https://github.com/benpate/nebula/rfc5988)
 
 This package provides constants and functions for implementing the [IETF RFC5988 standard for Web Linking](https://tools.ietf.org/html/rfc5988).
 
